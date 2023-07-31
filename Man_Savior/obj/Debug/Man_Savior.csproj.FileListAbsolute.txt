@@ -1,0 +1,16 @@
+E:\OOP PROJECTS\Man_Savior GUI\Man_Savior\Man_Savior\bin\Debug\Man_Savior.exe.config
+E:\OOP PROJECTS\Man_Savior GUI\Man_Savior\Man_Savior\bin\Debug\Man_Savior.exe
+E:\OOP PROJECTS\Man_Savior GUI\Man_Savior\Man_Savior\bin\Debug\Man_Savior.pdb
+E:\OOP PROJECTS\Man_Savior GUI\Man_Savior\Man_Savior\bin\Debug\EZInput.dll
+E:\OOP PROJECTS\Man_Savior GUI\Man_Savior\Man_Savior\bin\Debug\EZInput.xml
+E:\OOP PROJECTS\Man_Savior GUI\Man_Savior\Man_Savior\obj\Debug\Man_Savior.csproj.AssemblyReference.cache
+E:\OOP PROJECTS\Man_Savior GUI\Man_Savior\Man_Savior\obj\Debug\Man_Savior.csproj.SuggestedBindingRedirects.cache
+E:\OOP PROJECTS\Man_Savior GUI\Man_Savior\Man_Savior\obj\Debug\Man_Savior.Form1.resources
+E:\OOP PROJECTS\Man_Savior GUI\Man_Savior\Man_Savior\obj\Debug\Man_Savior.Properties.Resources.resources
+E:\OOP PROJECTS\Man_Savior GUI\Man_Savior\Man_Savior\obj\Debug\Man_Savior.csproj.GenerateResource.cache
+E:\OOP PROJECTS\Man_Savior GUI\Man_Savior\Man_Savior\obj\Debug\Man_Savior.csproj.CoreCompileInputs.cache
+E:\OOP PROJECTS\Man_Savior GUI\Man_Savior\Man_Savior\obj\Debug\Man_Savior.csproj.CopyComplete
+E:\OOP PROJECTS\Man_Savior GUI\Man_Savior\Man_Savior\obj\Debug\Man_Savior.exe
+E:\OOP PROJECTS\Man_Savior GUI\Man_Savior\Man_Savior\obj\Debug\Man_Savior.pdb
+E:\OOP PROJECTS\Man_Savior GUI\Man_Savior\Man_Savior\obj\Debug\Man_Savior.MainPage.resources
+E:\OOP PROJECTS\Man_Savior GUI\Man_Savior\Man_Savior\obj\Debug\Man_Savior.Level2.resources
